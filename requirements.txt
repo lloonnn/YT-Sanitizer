@@ -8,3 +8,7 @@ wordcloud
 jupyter
 ipykernel
 plotly
+xgboost
+lightgbm
+
+
